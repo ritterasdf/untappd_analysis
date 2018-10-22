@@ -1,8 +1,8 @@
 #for this project specifically:
 #personal json files
-.json
+*.json
 #plotly html pages
-.html
+temp-plot.html
 
 #from https://github.com/github/gitignore
 
